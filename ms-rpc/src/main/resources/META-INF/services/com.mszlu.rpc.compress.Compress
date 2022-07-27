@@ -1,0 +1,2 @@
+com.mszlu.rpc.compress.GzipCompress
+com.mszlu.rpc.compress.OtherCompress
